@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<p>ゼロから作るDeepLearningの勉強</p>
+<h1>ゼロから作るDeepLearningの勉強</h1>
 </body>
 </html>
