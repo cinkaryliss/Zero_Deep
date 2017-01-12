@@ -1,4 +1,4 @@
-import sys, os
+import sys
 sys.path.append("/Users/Yoshi/Programming/Zero_Deep/deep-learning-from-scratch")
 import numpy as np
 import pickle
